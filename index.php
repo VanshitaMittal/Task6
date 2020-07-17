@@ -1,1 +1,6 @@
-DevOps Task 6
+<pre>
+<?php
+print("Hiii");
+print`ifconfig`;
+?>
+</pre>
